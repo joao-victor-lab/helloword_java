@@ -1,6 +1,6 @@
-   public class GoodBye {
+public class GoodBye {
    
-   public void goodBye()
+   public void sayGoodBye()
    {
 
    System.out.println("adious");
